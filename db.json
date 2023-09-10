@@ -1,10 +1,27 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
+  "posts":
+    [
+    {"id": 1, "info": "Life is what happens when you're busy making other plans."},
+    {"id": 2, "info": "The only way to do great work is to love what you do."},
+    {"id": 3, "info": "In three words I can sum up everything I've learned about life: it goes on."},
+    {"id": 4, "info": "The best time to plant a tree was 20 years ago. The second best time is now."},
+    {"id": 5, "info": "Don't count the days, make the days count."},
+    {"id": 6, "info": "You miss 100% of the shots you don't take."},
+    {"id": 7, "info": "Success is not final, failure is not fatal: It is the courage to continue that counts."},
+    {"id": 8, "info": "The only limit to our realization of tomorrow will be our doubts of today."},
+    {"id": 9, "info": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment."},
+    {"id": 10, "info": "The journey of a thousand miles begins with one step."},
+    {"id": 11, "info": "The only thing we have to fear is fear itself."},
+    {"id": 12, "info": "Happiness can exist only in acceptance."},
+    {"id": 13, "info": "Life is really simple, but we insist on making it complicated."},
+    {"id": 14, "info": "Change your thoughts and you change your world."},
+    {"id": 15, "info": "To live is the rarest thing in the world. Most people exist, that is all."},
+    {"id": 16, "info": "Do not take life too seriously. You will never get out of it alive."},
+    {"id": 17, "info": "The future belongs to those who believe in the beauty of their dreams."},
+    {"id": 18, "info": "The only true wisdom is in knowing you know nothing."},
+    {"id": 19, "info": "Life is either a daring adventure or nothing at all."},
+    {"id": 20, "info": "I have not failed. I've just found 10,000 ways that won't work."}
+],
   "profile": {
     "name": "typicode"
   }
